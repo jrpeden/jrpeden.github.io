@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Computer Science student at the University of Texas at Austin.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also have a BA in Philosophy and five years of experience as a technical writer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[john.peden@utexas.edu](mailto:john.peden@utexas.edu)
