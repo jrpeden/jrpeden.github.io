@@ -9,9 +9,13 @@ Overall, I’m rather impressed with this class. I found all of the projects eng
 
 Here’s some advice for anyone who finds this blog and has a chance to take this class:
 1. I strongly recommend that you do take the class.
+
 2. Don’t just blow off studying for the daily quizzes. Actually prepare for them, as they can be trickier than you expect.
+
 3. Read Piazza and show up to class if you’re afraid of getting called on.
+
 4. Talk to people before it’s time to find a group for the IDB project. I was lucky enough to really like my group, but you spend so much time together that finding people you enjoy working with makes a big difference.
+
 5. Check for existing solutions for everything in the IDB project. Everything. You'd be surprised how much time you can save, or conversely how much time implementing something from scratch can take.
 
 Now to refocus my attention on the incredibly fast-paced five-week Programming Languages class and its ever-present homework...
